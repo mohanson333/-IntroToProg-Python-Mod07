@@ -38,12 +38,12 @@ I picked these sites because they were concise, yet to the point and included so
 
 I tested multiple scenarios with my script using PyCharm (see figure 1).
 
- 
+ <img src="image1.png" alt="figure1" title="Figure 1" />
 Figure:1
 
 In addition to testing with PyCharm I also tested using terminal. The script ran successfully (see figure 2).
 
- 
+ <img src="image2.png" alt="figure1" title="Figure 1" /> 
 Figure:2
 
 
